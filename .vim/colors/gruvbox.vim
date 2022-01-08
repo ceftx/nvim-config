@@ -1,0 +1,1 @@
+/home/ceft/.vim/plugged/gruvbox/colors/gruvbox.vim
